@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+requests
+gspread
+google-auth
+streamlit-echarts
